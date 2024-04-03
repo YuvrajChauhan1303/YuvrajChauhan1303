@@ -22,8 +22,8 @@
 
 ### Let's Connect:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yuvraj-chauhan)
-- 📧 [Email](mailto:your.email@example.com)
+- 🔗 [LinkedIN] (https://www.linkedin.com/in/yuvraj-chauhan-1a47b4272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 [Email](mailto:email.yuvraj.13@gmail.com)
 - 🌐 [GitHub](https://github.com/YuvrajChauhan1303)
 
 ### Ready to collaborate on exciting projects and push the boundaries of web development together! 🚀
