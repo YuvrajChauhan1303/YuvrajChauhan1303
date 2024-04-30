@@ -1,29 +1,29 @@
-# Yuvraj Chauhan
+<h1 align="center">Hi 👋, I'm Yuvraj Chauhan</h1>
+<h3 align="center">A passionate Full Stack Next.js / MERN Stack Developer from India</h3>
 
-### Full Stack Developer | ReactJS | Next.js | TypeScript
+- 🔭 I’m currently working on **E-Commerce / Fintech Project**
 
-👋 Hello! I'm Yuvraj Chauhan, a passionate Full Stack Developer on a journey to mastering the art of web development. With a strong foundation in ReactJS and a keen eye for design, I strive to create captivating digital experiences that leave a lasting impression.
+- 🌱 I’m currently learning **Full Stack Next.js and MERN Stack**
 
-### What I Bring to the Table:
+- 👨‍💻 All of my projects are available at [https://github.com/YuvrajChauhan1303](https://github.com/YuvrajChauhan1303)
 
-- 💻 Proficient in ReactJS, including React Hooks and React Router DOM, along with UI Component Libraries like ShadCN and Semantic UI.
-- 🌟 Skilled in HTML5, CSS3, Vanilla JavaScript, and Tailwind CSS for crafting beautiful and responsive web interfaces.
-- 🚀 Currently diving deep into Next.js 14 and exploring its capabilities for server-side rendering, lazy loading, and optimization techniques.
-- 🎨 Experienced in adding special animations and interactions to websites using GSAP and Scroll Trigger Plugin, enhancing user engagement and experience.
-- 🛠️ Familiar with Git and GitHub for version control, ensuring organized project folders and seamless collaboration.
+- 💬 Ask me about **ReactJS, Next.js and MERN Stack**
 
-### What I'm Up To:
+- 📫 How to reach me **email.yuvraj.13@gmail.com**
 
-- 📚 Recently completed a project for our Cultural and Literature fest using React, Vite, and TypeScript, incorporating innovative features and animations.
-- 🔍 Actively learning more about TypeScript and JavaScript to strengthen my skills and enhance code quality.
-- 🎯 Exploring Framer Motion and Locomotive Scroll to create smoother and more enjoyable website interactions.
-- 🌐 Volunteering at GDSC for Web Development, contributing to workshops and events to foster learning and growth in the community.
-- 📢 Getting ready to teach workshops on frontend development at our upcoming annual Technical festival, organized by the Student Gymkhana.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uwbbWJIAaJvPRID7lVpWIJFaQYXDWZnE/view?usp=sharing](https://drive.google.com/file/d/1uwbbWJIAaJvPRID7lVpWIJFaQYXDWZnE/view?usp=sharing)
 
-### Let's Connect:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vegeta_blabbers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vegeta_blabbers" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuvraj chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj chauhan" height="30" width="40" /></a>
+<a href="https://instagram.com/yuvi.not.nice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvi.not.nice" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dcodr1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dcodr1303" height="30" width="40" /></a>
+</p>
 
-- 🔗 [LinkedIN](https://www.linkedin.com/in/yuvraj-chauhan-1a47b4272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📧 [Email](mailto:email.yuvraj.13@gmail.com)
-- 🌐 [GitHub](https://github.com/YuvrajChauhan1303)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Ready to collaborate on exciting projects and push the boundaries of web development together! 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajchauhan1303&show_icons=true&locale=en" alt="yuvrajchauhan1303" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchauhan1303&" alt="yuvrajchauhan1303" /></p>
